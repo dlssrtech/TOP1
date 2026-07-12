@@ -1,0 +1,9 @@
+{
+  "name": "top-design-website",
+  "generatedAt": "2026-07-10T15:40:31.823Z",
+  "entry": "index.html",
+  "assets": [
+    "src/app.js",
+    "src/styles.css"
+  ]
+}

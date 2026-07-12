@@ -1,6 +1,7 @@
 {
   "scripts": {
     "start": "python3 -m http.server 5173",
+    "build": "node --check src/app.js && node scripts/build.js"
     "build": "node --check src/app.js"
   },
   "dependencies": {},
